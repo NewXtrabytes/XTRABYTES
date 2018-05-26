@@ -1,13 +1,5 @@
 # XTRABYTES
 
-XTRABYTES - The Proof of Signature Blockchain Database
+We are aiming to create a new xtrabytes with a full community feel. We will be applying DAG technology to the chain to boost the TPS to 25,000 Tx by using our patented lattice technology. We Aim to have everything sorted and worked out soon. We are also hiring new developers and will be implementing an altered version of static nodes that anyone can afford. We will also apply our new concensus algorithm which is based on Null to apply absolute privacy to the chain.
 
-https://xtrabytes.global/
-
-XTRABYTES is a newly invented blockchain infrastructure that does not require any traditional type of mining support, such as: POW or POS. We have created something called Proof of Signature which ensures that 100% of all blocks will be signed by the system when they occur. The blocks are signed by the network of Master Nodes after verifying the transactions in the block. There are a total of 650 million XBY and there will never be more. 
-
-The XTRABYTES system is a shared database storage system that will never break like some systems because we do not rely on miners who could turn their rigs to other coins, leaving the network unable to verify and therefore breaking the blockchain, rendering it useless and thus all clients losing access to their stored files. This can never happen to XTRABYTES.
-
-### More Information
-
-Join our Discord at https://discord.xtrabytes.global/
+Updated 5/26 by AnonX developer
